@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Notepad Icons/about.png</file>
+        <file>Notepad Icons/add_new.png</file>
+        <file>Notepad Icons/copy.png</file>
+        <file>Notepad Icons/cut.png</file>
+        <file>Notepad Icons/open.png</file>
+        <file>Notepad Icons/paste.png</file>
+        <file>Notepad Icons/redo.png</file>
+        <file>Notepad Icons/save.png</file>
+        <file>Notepad Icons/save_as.png</file>
+        <file>Notepad Icons/undo.png</file>
+    </qresource>
+</RCC>
